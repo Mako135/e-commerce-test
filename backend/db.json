@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Like",
+      "description": "Task group weight most. While not suggest give assume doctor back. Listen score factor send reason data.",
+      "price": 376.06,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+1",
+      "rating": 3.4
+    },
+    {
+      "id": 2,
+      "title": "Stuff",
+      "description": "Test station audience. Condition ground official between kitchen student less.",
+      "price": 412.82,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+2",
+      "rating": 3.1
+    },
+    {
+      "id": 3,
+      "title": "Establish",
+      "description": "Practice letter dog kind bed. Find event themselves vote kid tonight kind. World office break difficult operation generation.",
+      "price": 480.27,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+3",
+      "rating": 1.8
+    },
+    {
+      "id": 4,
+      "title": "Community",
+      "description": "Believe offer prove teacher discussion magazine. Value win use fund participant plan relationship.",
+      "price": 94.81,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+4",
+      "rating": 2.6
+    },
+    {
+      "id": 5,
+      "title": "Protect",
+      "description": "Blood pass yeah question. Drive whom moment go.\nCultural scientist current price. Green month green. Tell kitchen Mrs final effect answer.",
+      "price": 408.8,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+5",
+      "rating": 3.0
+    },
+    {
+      "id": 6,
+      "title": "Agree",
+      "description": "Business company industry reason him ability million. Respond return nearly power hear social certainly.",
+      "price": 43.33,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+6",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "title": "Young",
+      "description": "Service large language positive. Big doctor data education spend. Enjoy officer example size chair.",
+      "price": 246.05,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+7",
+      "rating": 1.6
+    },
+    {
+      "id": 8,
+      "title": "Property",
+      "description": "Environment store only development try anyone state. On mind total year business follow.\nHundred poor point indicate property stock describe.",
+      "price": 295.51,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+8",
+      "rating": 2.5
+    },
+    {
+      "id": 9,
+      "title": "Moment",
+      "description": "Kitchen like edge another hair somebody carry blue. Option ground manager laugh hand should seem.",
+      "price": 435.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+9",
+      "rating": 3.6
+    },
+    {
+      "id": 10,
+      "title": "Make",
+      "description": "Beautiful plan change minute operation character bank. Meet goal check eye statement star.",
+      "price": 356.49,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+10",
+      "rating": 3.5
+    },
+    {
+      "id": 11,
+      "title": "Around",
+      "description": "Ability car will fall.\nArrive because modern young. Behavior participant some parent through hit.",
+      "price": 135.03,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+11",
+      "rating": 2.0
+    },
+    {
+      "id": 12,
+      "title": "Which",
+      "description": "Can close blue with large treatment. Attorney join herself technology. Either pressure common miss reality campaign.",
+      "price": 333.54,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+12",
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "title": "Politics",
+      "description": "State rather lead bring represent American. Month military two popular instead sell.",
+      "price": 196.13,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+13",
+      "rating": 2.4
+    },
+    {
+      "id": 14,
+      "title": "Business",
+      "description": "Last seat executive between resource cut there.\nTogether throw amount grow. Whole happy same.",
+      "price": 371.18,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+14",
+      "rating": 1.9
+    },
+    {
+      "id": 15,
+      "title": "Various",
+      "description": "Box list particular five little. Energy serve find apply down collection. Build administration nature.",
+      "price": 411.02,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+15",
+      "rating": 2.6
+    },
+    {
+      "id": 16,
+      "title": "Mean",
+      "description": "Itself conference nearly. Recently baby medical best purpose certainly war. Investment away its alone across executive.",
+      "price": 346.38,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+16",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "title": "Give",
+      "description": "Today develop product teach large. Citizen about standard happy official within side color.",
+      "price": 418.25,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+17",
+      "rating": 2.5
+    },
+    {
+      "id": 18,
+      "title": "Benefit",
+      "description": "Amount husband point rich task camera. Turn officer what art mission number. Compare tax describe young.",
+      "price": 465.68,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+18",
+      "rating": 1.5
+    },
+    {
+      "id": 19,
+      "title": "Hear",
+      "description": "Design part meeting first anything hundred each. Toward social various popular growth. Western religious modern country.",
+      "price": 463.36,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+19",
+      "rating": 4.7
+    },
+    {
+      "id": 20,
+      "title": "Design",
+      "description": "Western father myself simple rule. Everyone course operation news stock successful mother newspaper.",
+      "price": 437.54,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+20",
+      "rating": 2.5
+    },
+    {
+      "id": 21,
+      "title": "Television",
+      "description": "Service adult western case attention. Join along this cup president she simple. Result who data camera buy.",
+      "price": 166.35,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+21",
+      "rating": 1.4
+    },
+    {
+      "id": 22,
+      "title": "Interest",
+      "description": "Number risk identify decision some.\nPublic success standard bit president next. Administration glass thing. Character best not head common.",
+      "price": 390.35,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+22",
+      "rating": 1.8
+    },
+    {
+      "id": 23,
+      "title": "Owner",
+      "description": "Ever clearly material administration.\nOften add magazine where nation product administration. Although hear third particular entire before even.",
+      "price": 125.52,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+23",
+      "rating": 4.0
+    },
+    {
+      "id": 24,
+      "title": "Than",
+      "description": "Challenge create in white. Best room parent decade administration maintain sound. Why natural skill tend commercial her establish.",
+      "price": 288.51,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+24",
+      "rating": 3.2
+    },
+    {
+      "id": 25,
+      "title": "Campaign",
+      "description": "Expert fine type side note card. Race toward night believe. Day amount his dinner from strong race.",
+      "price": 442.82,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+25",
+      "rating": 4.9
+    },
+    {
+      "id": 26,
+      "title": "Project",
+      "description": "Point stand today add investment evening analysis. Poor sit town themselves. Less treat main either stay.\nDesign program role machine listen how.",
+      "price": 99.61,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+26",
+      "rating": 4.8
+    },
+    {
+      "id": 27,
+      "title": "Still",
+      "description": "Laugh left ok visit edge magazine fire pay. Last southern wall direction allow bed.",
+      "price": 200.81,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+27",
+      "rating": 4.0
+    },
+    {
+      "id": 28,
+      "title": "Relate",
+      "description": "Return impact executive drive sister prepare mean entire.\nStop particular success. Turn some notice something.",
+      "price": 39.75,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+28",
+      "rating": 2.9
+    },
+    {
+      "id": 29,
+      "title": "Green",
+      "description": "Guess walk democratic director style break. Which follow large than.\nEasy rock top against make thing system. Style data very economic then.",
+      "price": 324.72,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+29",
+      "rating": 4.5
+    },
+    {
+      "id": 30,
+      "title": "Break",
+      "description": "Movement Mr skill pick control table. Dog race herself be sport apply without.",
+      "price": 19.03,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+30",
+      "rating": 1.5
+    }
+  ]
+}
