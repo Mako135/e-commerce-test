@@ -1,4 +1,4 @@
-import CartProdustsList from "@/shared/components/CartProdustsList";
+import CartProdustsList from "@/shared/widgets/CartProdustsList";
 
 export default function Page() {
   return (

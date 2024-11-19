@@ -3,7 +3,7 @@
 import { useCartStore } from "@/lib/cartStore";
 import React from "react";
 
-export default function Cart() {
+export default function CartTotal() {
   const { totalProducts, totalPrice } = useCartStore();
 
   const formattedPrice = new Intl.NumberFormat("en-US", {
@@ -11,7 +11,7 @@ export default function Cart() {
     currency: "USD",
   }).format(totalPrice);
   return (
-    <div className="flex justify-between items-center gap-5">
+    <div className="hidden md:flex justify-between items-center gap-5">
       <p>
         Total items:{" "}
         <span className="text-green-500 font-bold">{totalProducts}</span>
