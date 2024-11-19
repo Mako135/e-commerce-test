@@ -1,15 +1,10 @@
 import { Product } from "@/lib/types";
 import Image from "next/image";
 import { Star } from "lucide-react";
+import AddToCartBtn from "./AddToCartBtn";
 
-export default function ProductCard({
-  title,
-  description,
-  image,
-  currency,
-  rating,
-  price,
-}: Product) {
+export default function ProductCard(product: Product) {
+  const { title, description, image, currency, rating, price } = product;
   const filledStars = Math.round(rating);
   const formattedPrice = new Intl.NumberFormat("en-US", {
     style: "currency",
@@ -50,9 +45,7 @@ export default function ProductCard({
             </div>
           </div>
         </div>
-        <button className="bg-black w-full py-2 rounded-md text-white">
-          Add to cart
-        </button>
+        <AddToCartBtn product={product} />
       </div>
     </div>
   );

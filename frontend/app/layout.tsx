@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Header from "@/shared/components/Header";
-import Filter from "@/shared/widgets/Filter";
-import SearchBar from "@/shared/components/SearchBar";
+import Header from "@/shared/widgets/Header";
+
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -18,15 +17,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <Header />
-        <main className="mt-20 flex max-w-screen-2xl mx-auto gap-5">
-          <aside>
-            <Filter />
-          </aside>
-          <section>
-            <SearchBar />
-            {children}
-          </section>
-        </main>
+        {children}
       </body>
     </html>
   );

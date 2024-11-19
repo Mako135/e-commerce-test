@@ -14,7 +14,7 @@ export default function SearchBar() {
         className="w-full border-b-2 py-2 pl-10"
         onChange={(e) => filterProductsByTitle(e.target.value)}
       />
-      <Search className="absolute top-1/2 left-2 transform -translate-y-1/2" />
+      <Search className="absolute top-1/2 left-2 transform -translate-y-1/2 focus:outline-none focus:border-0" />
     </div>
   );
 }
