@@ -1,13 +1,20 @@
+"use client";
+
 import { Product } from "@/lib/types";
 import ProductCard from "../components/ProductCard";
+import { useProductStore } from "@/lib/productStore";
 
-export default async function ProductList() {
-  const res = await fetch("http://localhost:3000/products");
-  const data = await res.json();
+interface ProductListProps {
+  products: Product[];
+}
+
+export default function ProductList({ products }: ProductListProps) {
+  const { setProducts } = useProductStore();
+  setProducts(products);
 
   return (
-    <div className="grid grid-cols-4 gap-5 my-40">
-      {data.map((product: Product) => (
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+      {products.map((product: Product) => (
         <ProductCard key={product.id} {...product} />
       ))}
     </div>
