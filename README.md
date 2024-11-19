@@ -15,7 +15,7 @@ To run the project, follow these steps:
 3.  npm run dev
     
 
-### Step 2: Setup the Backend
+### Step 2: Setup the JSON API
 
 1.  cd backend
     
